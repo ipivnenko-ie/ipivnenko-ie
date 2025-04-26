@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipivnenko-ie
 - 👀 I’m interested in PHP8.4, jsonapi, MySql, Laravel, Linux(Ubuntu OS) and Cars
-- 🌱 I’m currently learning creating app by Android
+- 🌱 I’m currently learning creating app by Android and Kotlin
 - 💞️ I’m looking to collaborate on to level up my skills in Android and English
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
